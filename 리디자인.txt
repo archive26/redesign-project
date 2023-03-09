@@ -1,0 +1,62 @@
+alt 클릭 : 정원
+guids 단축키 자주 사용 !
+
+magic wand tool- tolerance값이 커질수록 내가 클릭한 색상과 인접한 범위가 늘어남
+scale tool
+
+divide -> ungroup
+
+polygon tool
+
+type object(글씨) 에는 캐릭터가 포함 되어있다ㅏㅏ
+
+contents box
+character
+
+normal mode
+area mode
+
+type -> creative outline [ctrl shift o]
+
+git (분산버전관리 프로그램)- 파일마다 history 기록-> 특정 시점으로 돌아갈 수 있다ㅏ
+
+git hub (git file들이 모여지는 저장소)
+
+
+여백, 글자(자간,행간,글자 크기), 색
+
+색- 무채색 계열(검,회,흰) -색이 없다고 봄 
+ 
+여백- 좌,우,상,하
+       가독성, 컨텐츠의 순서 배치
+
+글자- 폰트(제목,본문[설명]) 획 모양이 없는 체를 많이 사용 
+
+
+
+
+모라고 소개하지
+라
+고
+소
+개
+하
+지 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
